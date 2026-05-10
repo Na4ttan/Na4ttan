@@ -5,7 +5,7 @@ Atualmente estou em uma jornada intensa de transição e especialização em Eng
 
 📚 Em formação: Consolidando fundamentos de Algoritmos, Pensamento Computacional e Software Design através de uma trilha de estudos baseada em grandes autores (Apress, Manning, O'Reilly).
 
-🐍 Foco: Python, SQLite, Flask e Lógica de Programação.
+🐍 Foco: Python, SQLite, Django e Lógica de Programação.
 
 ## Hi there! I'm Natan 👋
 I am currently on an intensive journey of transitioning and specializing in Software Engineering. By combining my previous background in Web Design and extensive experience in the retail sector, I bridge the gap between product vision and technical robustness using Python and SQL.
@@ -14,4 +14,4 @@ I am currently on an intensive journey of transitioning and specializing in Soft
 
 📚 Learning Path: Strengthening my foundations in Algorithms, Computational Thinking, and Software Design through a curated study track based on renowned authors (Apress, Manning, O'Reilly).
 
-🐍 Tech Stack & Focus: Python, SQLite, Flask, and Logic of Programming.
+🐍 Tech Stack & Focus: Python, SQLite, Django, and Logic of Programming.
